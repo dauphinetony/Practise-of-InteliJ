@@ -1,6 +1,7 @@
 # Basic-Single-Module-SSJPA
 
-## 说明,测试是否可行
+## 说明,测试是否可行 
+## 以Develop为分支创建
 
 
 - 作者：Judas.n：<http://code.YouMeek.com>
